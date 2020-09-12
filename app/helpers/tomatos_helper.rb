@@ -1,0 +1,2 @@
+module TomatosHelper
+end
